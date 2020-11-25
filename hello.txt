@@ -4,4 +4,12 @@ dafsdfanjdskflnbj
 asdjfnklasjdfhjih2
 asfdejn23
 qwerq143245345234
+<<<<<<< HEAD
 aaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbccccccccccccccccccc
+=======
+<<<<<<< HEAD
+add come content to repo1
+aaaaaaaaaaaaaaaaaaaaaa
+=======
+>>>>>>> c580a012c38cd031b7ed6cbe0dc6a22bd55736f3
+>>>>>>> cab38320f1141f9f7de6f77eaa9e07b37553496b
